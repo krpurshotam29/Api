@@ -1,0 +1,18 @@
+C:\Users\Purshotam\source\repos\Library Management\Library Management\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Purshotam\source\repos\Library Management\Library Management\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Purshotam\source\repos\Library Management\Library Management\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Purshotam\source\repos\Library Management\Library Management\bin\Debug\netcoreapp3.1\Library Management.exe
+C:\Users\Purshotam\source\repos\Library Management\Library Management\bin\Debug\netcoreapp3.1\Library Management.deps.json
+C:\Users\Purshotam\source\repos\Library Management\Library Management\bin\Debug\netcoreapp3.1\Library Management.runtimeconfig.json
+C:\Users\Purshotam\source\repos\Library Management\Library Management\bin\Debug\netcoreapp3.1\Library Management.runtimeconfig.dev.json
+C:\Users\Purshotam\source\repos\Library Management\Library Management\bin\Debug\netcoreapp3.1\Library Management.dll
+C:\Users\Purshotam\source\repos\Library Management\Library Management\bin\Debug\netcoreapp3.1\Library Management.pdb
+C:\Users\Purshotam\source\repos\Library Management\Library Management\obj\Debug\netcoreapp3.1\Library Management.csprojAssemblyReference.cache
+C:\Users\Purshotam\source\repos\Library Management\Library Management\obj\Debug\netcoreapp3.1\staticwebassets\Library Management.StaticWebAssets.Manifest.cache
+C:\Users\Purshotam\source\repos\Library Management\Library Management\obj\Debug\netcoreapp3.1\staticwebassets\Library Management.StaticWebAssets.xml
+C:\Users\Purshotam\source\repos\Library Management\Library Management\obj\Debug\netcoreapp3.1\Library Management.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Purshotam\source\repos\Library Management\Library Management\obj\Debug\netcoreapp3.1\Library Management.AssemblyInfoInputs.cache
+C:\Users\Purshotam\source\repos\Library Management\Library Management\obj\Debug\netcoreapp3.1\Library Management.AssemblyInfo.cs
+C:\Users\Purshotam\source\repos\Library Management\Library Management\obj\Debug\netcoreapp3.1\Library Management.RazorTargetAssemblyInfo.cache
+C:\Users\Purshotam\source\repos\Library Management\Library Management\obj\Debug\netcoreapp3.1\Library Management.dll
+C:\Users\Purshotam\source\repos\Library Management\Library Management\obj\Debug\netcoreapp3.1\Library Management.pdb
